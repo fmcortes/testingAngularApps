@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-testing"
+    }
+  },
+  "defaultProject": "angular-testing",
+  "cli": {
+    "analytics": false
+  }
 }
